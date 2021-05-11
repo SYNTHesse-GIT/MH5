@@ -1,0 +1,6 @@
+# Build artefacts
+_build
+
+# VSCode settings
+.vscode/
+.DS_Store
